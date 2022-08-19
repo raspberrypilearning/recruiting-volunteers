@@ -18,21 +18,23 @@ Your Dojo might need volunteers to help with:
 
 --- no-print ---
 --- task ---
-### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Reflect on what skills your Dojo already has available. Ask volunteers you already have if they would be interested in upskilling or completing different tasks as part of their role.
-</div>
+**Reflect** on what skills your Dojo already has available.
 </div>
 </div>
 --- /task ---
-
 --- task ---
-### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Decide what skills or roles are still needed, and whether having surplus volunteers on standby if someone can’t attend would be useful.
+**Ask** volunteers you already have if they would be interested in upskilling or completing different tasks as part of their role.
 </div>
+</div>
+--- /task ---
+--- task ---
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+**Decide** what skills or roles are still needed, and whether having surplus volunteers on standby if someone can’t attend would be useful.
 </div>
 </div>
 --- /task ---
