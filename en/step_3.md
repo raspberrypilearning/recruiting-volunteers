@@ -55,8 +55,9 @@ title: Mentor (technical)
 + Provide technical guidance to help young people progress with their projects
 + Help to set up technical equipment before sessions
 
-The Dojo hosts sessions every week/fortnight/month  on day/dates from start time to end time. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+The Dojo hosts sessions every week/fortnight/month  on day/dates from start time to end time. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
+
 
 
 --- /collapse ---
@@ -64,20 +65,40 @@ This is an unpaid volunteer role.
 --- collapse ---
 
 ---
-title: Mentor (technical)
+title: Mentor (guidance)
 ---
 
-**Aims and expectations:** Uses their own coding experience or technical knowledge to support and guide young people in a session. They may also prepare learning resources or activities for sessions.
+**Aims and expectations:** A mentor who can support and encourage young people to participate in activities across the session. They may also prepare learning resources or activities for sessions. Little or no coding experience is required. 
 
 **Example tasks:**
-+ Help to plan and prepare resources ahead of sessions
-+ Provide support to young people who are new to coding
-+ Provide technical guidance to help young people progress with their projects
-+ Help to set up technical equipment before sessions
++ Help to plan sessions
++ Welcome attendees as they arrive at the sessions
++ Help to set up the venue space and tidy away at the end of sessions
++ Encourage young people to participate in the session activities
++ Provide basic support to young people who are new to coding
 
 The Dojo hosts sessions every week/fortnight/month  on day/dates from start time to end time. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
+--- /collapse ---
+  
+--- collapse ---
+
+---
+title: Mentor (guidance)
+---
+
+**Aims and expectations:** A mentor who can support and encourage young people to participate in activities across the session. They may also prepare learning resources or activities for sessions. Little or no coding experience is required. 
+
+**Example tasks:**
++ Help to plan sessions
++ Welcome attendees as they arrive at the sessions
++ Help to set up the venue space and tidy away at the end of sessions
++ Encourage young people to participate in the session activities
++ Provide basic support to young people who are new to coding
+
+The Dojo hosts sessions every week/fortnight/month  on day/dates from start time to end time. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+This is an unpaid volunteer role.
 
 --- /collapse ---
 </div>
