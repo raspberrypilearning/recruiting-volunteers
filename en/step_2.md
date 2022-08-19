@@ -14,13 +14,13 @@ Dojos told us that they recruit:
   
 --- task ---
 
-**Look** through the list of 'who to recruit'. Is there any other groups of people in your local area that aren't included in this list?
+**Look** through the list of 'who to recruit'. Is there any other groups of people in your area you could recruit volunteers from that aren't included in this list?
 
 --- /task ---
   
 --- task ---
 
-**Write down** five groups of people who might be available or interested in volunteer oppurtunuties in your local area. 
+**Write down** five groups of people who might be interested in volunteer oppurtunuties in your local area. 
 
 
 --- /task ---
@@ -38,6 +38,12 @@ Dojos told us that they recruit:
 --- task ---
 
 **Review** the list of 'ways to recruit'. Which of these approaches would be most impactful in your local area? What approach would you prefer to try? Is there any other ways you could reach potential volunteers in your local area not mentioned on this list? Write down three approaches you will use to recruit those you selected from the 'who to recruit' list.
+
+--- /task ---
+  
+--- task ---
+
+**Write down** three approaches you will use to recruit those you selected from the 'who to recruit' list.
 
 --- /task ---
 
