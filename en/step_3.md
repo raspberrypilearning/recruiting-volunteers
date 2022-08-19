@@ -1,8 +1,66 @@
-## Step title
+## How to develop role descriptions
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add an introductory sentence. What will learners achieve by the end of this step?
+
+Volunteer role descriptions outline what a role involves. They ensure both the volunteer and others in the Dojo have a clear understanding of their role.
+
+Role descriptions usually include:
++ role title 
++ aims and expectations of role
++ an outline of the role's tasks
++ location and times
+
+You could also include:
++ why a new volunteer might like to take up the opportunity
++ how the role fits within the Dojo
++ expectations of behaviour
++ essential and desirable skills and qualifications
+
+Below are six different example volunteer role descriptions that you can adapt to suit the needs of your Dojo.
+
+--- collapse ---
+
+---
+title: Dojo Champion/Co-champion
+---
+
+**Aims and expectations:** Manages the overall running of the Dojo, including recruiting and onboarding volunteers, liaising with the venue, supporting and managing volunteers, communicating with parents.
+**Tasks:**
++ Manages the booking and communications with the venue
++ Coordinates Dojo volunteers, ensuring they are briefed for each session
++ Plans activities for sessions, with support from mentors
++ Manages the recruitment and onboarding process of new volunteers
++ Sets up the venue space and tidies equipment away at the end of session
+
+The Dojo hosts sessions every week/fortnight/month  on day/dates from start time to end time. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+This is an unpaid volunteer role.
+
+
+--- /collapse ---
+  
+
+--- collapse ---
+
+---
+title: Dojo Champion/Co-champion
+---
+
+**Aims and expectations:** Manages the overall running of the Dojo, including recruiting and onboarding volunteers, liaising with the venue, supporting and managing volunteers, communicating with parents.
+**Tasks:**
++ Manages the booking and communications with the venue
++ Coordinates Dojo volunteers, ensuring they are briefed for each session
++ Plans activities for sessions, with support from mentors
++ Manages the recruitment and onboarding process of new volunteers
++ Sets up the venue space and tidies equipment away at the end of session
+
+The Dojo hosts sessions every week/fortnight/month  on day/dates from start time to end time. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+This is an unpaid volunteer role.
+
+
+--- /collapse ---
+  
+  
 </div>
 <div>
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
