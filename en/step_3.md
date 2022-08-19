@@ -113,7 +113,7 @@ title: Safeguarding sponsor
 Example tasks:
 
 + Ensure that the Dojo operates in accordance with the [safeguarding policy](https://www.raspberrypi.org/safeguarding/){:target="_blank"}.
-+ Ensure that all volunteers have the [appropriate background checks](https://www.raspberrypi.org/safeguarding/](https://help.coderdojo.com/cdkb/s/article/Background-Checking-Volunteers){:target="_blank"}.
++ Ensure that all volunteers have the [appropriate background checks](https://help.coderdojo.com/cdkb/s/article/Background-Checking-Volunteers){:target="_blank"}.
 
 
 The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. This Dojo usually runs <mark>during regular school term time, taking a break for holidays and midterm</mark>. 
