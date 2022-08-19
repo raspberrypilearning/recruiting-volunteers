@@ -1,4 +1,5 @@
 ## Who to recruit
+
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
@@ -13,8 +14,14 @@ Dojos told us that they recruit:
   
 --- task ---
 
-**Look** through the list of 'who to recruit'. **Write down** five groups of people who might be available or interested in volunteer oppurtunuties in your local area. 
-Is there any other groups of people in your local area that aren't included in this list?
+**Look** through the list of 'who to recruit'. Is there any other groups of people in your local area that aren't included in this list?
+
+--- /task ---
+  
+--- task ---
+
+**Write down** five groups of people who might be available or interested in volunteer oppurtunuties in your local area. 
+
 
 --- /task ---
   
