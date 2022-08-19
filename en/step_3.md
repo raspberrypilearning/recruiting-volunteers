@@ -5,7 +5,7 @@
 
 Volunteer role descriptions outline what a role involves. They ensure both the volunteer and others in the Dojo have a clear understanding of their role.
 
-**Role descriptions *usually* include:**
+**Role descriptions usually include:**
 + role title 
 + aims and expectations of role
 + an outline of the role's tasks
@@ -119,7 +119,17 @@ This is an unpaid volunteer role.
 --- /collapse ---
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+When writing your role description, make sure it offers a good volunteering experience, so it is attractive to potential volunteers. Some things that can make the experience positive for volunteers are listed below.
+
++ Enjoyable
++ Inclusive of everyone
++ Voluntary, not an obligation
++ Flexible around people's lives
++ Makes a difference and impactful
++ Doesn't overburden the volunteer
++ Opportunity to connect with others, and the cause
++ Meaningful to volunteers' lives, interests and priorities
+
 </div>
 </div>
 
