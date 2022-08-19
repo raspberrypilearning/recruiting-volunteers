@@ -119,7 +119,14 @@ This is an unpaid volunteer role.
 --- /collapse ---
 </div>
 <div>
-When writing your role description, make sure it offers a good volunteering experience, so it is attractive to potential volunteers. Some things that can make the experience positive for volunteers are listed below.
+  
+--- task ---
+
+**Write a role description** for the roles available at your Dojo using the examples above and considering the specific needs of your Dojo.
+
+--- /task ---
+  
+When writing the description, make sure it offers a good volunteering experience, so it is attractive to potential volunteers. Some things that can make the experience positive for volunteers are listed below.
 
 + Enjoyable
 + Inclusive of everyone
@@ -135,18 +142,8 @@ When writing your role description, make sure it offers a good volunteering expe
 
 --- task ---
 
-Another step of tasks to complete.
-
 --- /task ---
 
---- task ---
 
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
-
---- /task ---
 
 --- save ---
