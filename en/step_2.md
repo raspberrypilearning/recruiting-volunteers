@@ -37,7 +37,7 @@ Dojos told us that they recruit:
 
 --- task ---
 
-**Review** the list of 'ways to recruit'. Which of these approaches would be most impactful in your local area? What approach would you prefer to try? Is there any other ways you could reach potential volunteers in your local area not mentioned on this list? Write down three approaches you will use to recruit those you selected from the 'who to recruit' list.
+**Review** the list of 'ways to recruit'. Which of these approaches would be most impactful in your local area? What approach would you prefer to try? Is there any other ways you could reach potential volunteers in your local area not mentioned on this list?
 
 --- /task ---
   
