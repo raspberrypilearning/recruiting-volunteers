@@ -39,7 +39,3 @@ Your Dojo might need volunteers to help with:
 </div>
 --- /task ---
 --- /no-print ---
-
---- print-only ---
-![Completed project](images/showcase_static.png)
---- /print-only ---
