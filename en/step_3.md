@@ -144,6 +144,15 @@ When writing the description, make sure it offers a good volunteering experience
 
 --- /task ---
 
+--- collapse ---
 
+---
+title: Legal issues with volunteer role descriptions
+---
+
+Make sure that your Volunteer role description does not read like a job description. You must be careful not to imply a volunteer is under contract to perform specific tasks. If it looks like you treat them as an employee, they may be eligible for full employment rights and you could be in breach of employment law. Be clear that it is an unpaid voluntary role, and volunteers can leave at any time. Don’t give volunteers an income, avoid asking for a minimum time period commitment and avoid using language used for employment. Words such as ‘contract’, ‘job’ and ‘requirements’ are inappropriate for volunteers, instead the language should be ‘agreement’, ‘role’ and ‘hopes’ or ‘expectations’.
+
+--- /collapse ---
+  
 
 --- save ---
