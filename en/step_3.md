@@ -11,11 +11,8 @@ Volunteer role descriptions outline what a role involves. They ensure both the v
 + an outline of the role's tasks
 + location and times
 
-You *could* also include:
-+ why a new volunteer might like to take up the opportunity
-+ how the role fits within the Dojo
-+ expectations of behaviour
-+ essential and desirable skills and qualifications
+Descriptions *can* also include why a new volunteer might like to take up the opportunity, how the role fits within the Dojo, expectations of behaviour
+as well as desirable skills and qualifications.
 
 ## Example role descriptions
 Below are six different example volunteer role descriptions that you can adapt to suit the needs of your Dojo.
