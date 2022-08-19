@@ -101,6 +101,25 @@ The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/da
 This is an unpaid volunteer role.
 
 --- /collapse ---
+  
+--- collapse ---
+
+---
+title: Safeguarding sponsor
+---
+
+**Aims and expectations:** The safeguarding sponsor should be a team member of the venue/organisation that agrees to take responsibility for safeguarding issues, including appropriate background checks for the Dojo champion and volunteers. If there is no-one from the venue who can fulfil this position, another appropriate sponsor would be a person holding a manager-level position within a school, library, or corporate/non-profit organisation.
+
+Example tasks:
+
++ Ensure that the Dojo operates in accordance with the [safeguarding policy](https://www.raspberrypi.org/safeguarding/){:target="_blank"}.
++ Ensure that all volunteers have the [appropriate background checks](https://www.raspberrypi.org/safeguarding/](https://help.coderdojo.com/cdkb/s/article/Background-Checking-Volunteers){:target="_blank"}.
+
+
+The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. This Dojo usually runs <mark>during regular school term time, taking a break for holidays and midterm</mark>. 
+This is an unpaid volunteer role.
+
+--- /collapse ---
 </div>
 <div>
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
