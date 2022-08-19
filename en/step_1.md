@@ -13,7 +13,7 @@ Your Dojo might need volunteers to help with:
 + Talking to young people to find the solution themselves
 + Gathering suitable learning resources and projects
 + Organising snacks and refreshments for longer sessions
-+ Fundraising or organising 
++ Fundraising or organising events
 + Technical support for more complex coding languages 
 
 --- no-print ---
