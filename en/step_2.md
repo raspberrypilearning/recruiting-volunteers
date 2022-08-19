@@ -1,10 +1,6 @@
-## Volunteer role descriptions
-
+## Who to recruit
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Once you’ve identified the need for volunteers, it can be useful to have the benefits of volunteering, and an outline of what you want the volunteers to do in mind. Developing a role description can be useful for this.
-
-## Who to recruit
 
 Dojos told us that they recruit:
 + Parents of young people who participate in the Dojo
@@ -14,7 +10,14 @@ Dojos told us that they recruit:
 + Students (secondary or further education)
 + Local educators (primary, secondary or further education)
 + Teenagers who participated in the Dojo and evolved to mentors
+  
+--- task ---
 
+**Look** through the list of 'who to recruit'. **Write down** who might be available or interested in volunteer oppurtunuties in your local area. 
+Is there any other groups of people in your local area that aren't included in this list?
+
+--- /task ---
+  
 ## Ways to recruit
 + Word of mouth
 + Social media
@@ -25,28 +28,12 @@ Dojos told us that they recruit:
 + Volunteers asked to recruit others
 + Sponsors/Venue staff asked to recruit others
 
-</div>
-<div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
-</div>
-</div>
-
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
-
-[[[working-offline]]]
+**Review** the list of 'ways to recruit'. Which of these approaches would be most impactful in your local area? Which approach would you prefer to use? Is there any other ways you could reach potential volunteers in your local area not mentioned on this list?
 
 --- /task ---
 
---- task ---
-
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
-
---- /task ---
+</div>
 
 --- save ---
