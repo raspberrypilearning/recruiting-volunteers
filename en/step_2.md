@@ -20,7 +20,7 @@ Dojos told us that they recruit:
   
 --- task ---
 
-**Write down** five groups of people who might be interested in volunteer oppurtunuties in your local area. 
+**Write down** the groups of people who might be available, or interested in volunteer oppurtunuties in your club. 
 
 
 --- /task ---
