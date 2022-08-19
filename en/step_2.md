@@ -35,5 +35,3 @@ Is there any other groups of people in your local area that aren't included in t
 --- /task ---
 
 </div>
-
---- save ---
