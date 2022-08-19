@@ -47,7 +47,7 @@ Dojos told us that they recruit:
 
 --- /task ---
   
-Before discussing a volunteer opportunity with someone it can be useful to have an outline of what you want the volunteer to do, and the benefits of volunteering in mind. Developing a role description can be useful for this.
+Before discussing a volunteer opportunity with someone it can be useful to have an outline of what you want the volunteer to do, and the benefits of volunteering in mind. Developing a **role description** can be useful for this.
 
 
 </div>
