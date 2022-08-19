@@ -35,7 +35,7 @@ title: Dojo Champion/Co-champion
 + Manages the recruitment and onboarding process of new volunteers
 + Sets up the venue space and tidies equipment away at the end of session
 
-The Dojo hosts sessions every week/fortnight/month  on day/dates from start time to end time. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 
@@ -56,7 +56,7 @@ title: Mentor (technical)
 + Provide technical guidance to help young people progress with their projects
 + Help to set up technical equipment before sessions
 
-The Dojo hosts sessions every week/fortnight/month  on day/dates from start time to end time. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 
@@ -78,7 +78,7 @@ title: Mentor (guidance)
 + Encourage young people to participate in the session activities
 + Provide basic support to young people who are new to coding
 
-The Dojo hosts sessions every week/fortnight/month  on day/dates from start time to end time. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 --- /collapse ---
@@ -97,7 +97,7 @@ title: Support volunteer
 + Help to organise the session space and equipment
 
 
-  The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on day/dates from start time to end time. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. This Dojo usually runs <mark>during regular school term time, taking a break for holidays and midterm</mark>. 
 This is an unpaid volunteer role.
 
 --- /collapse ---
