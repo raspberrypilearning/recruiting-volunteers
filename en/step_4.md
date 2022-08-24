@@ -1,8 +1,39 @@
-## Step title
+## Respond
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add an introductory sentence. What will learners achieve by the end of this step?
+
+Once your opportunity is shared be ready to respond to any interest. When you recieve responses:
+
+--- no-print ---
+--- task ---
+Respond quickly and politely to ensure that the first impression of your Dojo is a positive one.
+--- /task ---
+  
+--- task ---
+Share more detailed information about the Dojo, the role and expectations. 
+  
+--- /task ---
+  
+This will help people to decide on whether the role is a good fit for them or not. The role description you developed earlier should help with this.
+
+  --- task ---
+Invite them along to visit your Dojo so that they can find out more and so you can get to know them too. Alternatively you could arrange to meet them in a public place.
+  --- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Remember:** visitors who haven’t obtained a background check, should be accompanied by a registered volunteer at all times and not be left unattended with young people. 
+  
+Always meet new volunteers in a public place
+</p>
+  
+Not every response leads to a new volunteer onboarding, and that’s okay! If this happens, firstly, thank people for their interest, but also use the opportunity to get any feedback around why the role may not have been a good fit.
+This feedback may help you to consider:
+
++ Any alternative roles for the individual
++ Tweaking or clarifying your role description if this may improve future recruitment
++ Flexibility, is there a way that you could accommodate specific needs?
+
 </div>
 <div>
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
