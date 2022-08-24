@@ -26,9 +26,7 @@ Invite them along to visit your Dojo so that they can find out more and so you c
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Remember:** visitors who haven’t obtained a background check, should be accompanied by a registered volunteer at all times and not be left unattended with young people. 
-  
-Always meet new volunteers in a public place
+<span style="color: #0faeb0">**Remember:** visitors who haven’t obtained a background check, should be accompanied by a vetted volunteer at all times and not be left unattended with young people. 
 </p>
   
 Not every response leads to a new volunteer onboarding, and that’s okay! If this happens, firstly, thank people for their interest, but also use the opportunity to get any feedback around why the role may not have been a good fit.
