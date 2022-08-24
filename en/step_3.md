@@ -59,7 +59,7 @@ title: Examples of where to promote
 + Talk to people directly
 + Social media posts
 + Direct email
-+ Posters
++ Placing posters in key places
 + Newspaper articles
 + Radio interviews
 + Presentations or visits to local companies
@@ -78,5 +78,8 @@ title: Examples of where to promote
 
 --- /task ---
  
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">A direct and personal invitation is often more successful. Reach out to those you know, or have a collegue or friend introduce you to someone they think would be interested in the oppurtunity.
+</p>
 
 </div>
