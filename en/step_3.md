@@ -46,8 +46,6 @@ Dojos told us that they recruit:
 **Write down** three approaches you will use to recruit those you selected from the 'who to recruit' list.
 
 --- /task ---
-  
-Before discussing a volunteer opportunity with someone it can be useful to have an outline of what you want the volunteer to do, and the benefits of volunteering in mind. Developing a **role description** can be useful for this.
-
+ 
 
 </div>
