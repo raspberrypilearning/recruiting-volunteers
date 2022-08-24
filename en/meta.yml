@@ -8,9 +8,9 @@ copyedit: false
 last_tested: '2021-03-26'
 steps:
 - title: Reflect
-- title: Promote: who and how
+- title: Promote
 - title: Role descriptions
-- title: Responding
+- title: Respond
 - title: Reflection
   knowledge_quiz:
     path: quiz1
