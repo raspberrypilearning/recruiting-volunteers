@@ -4,8 +4,6 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
 Once your opportunity is shared be ready to respond to any interest. When you recieve responses:
-
---- no-print ---
   
 --- task ---
 
