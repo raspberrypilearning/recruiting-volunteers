@@ -52,7 +52,7 @@ title: Examples of where to promote
   
 --- task ---
   
-**Think** about the key places and platforms those you want to reach engage with - where are they based?
+**Think** about the key places and platforms those you want to reach visit and use. 
   
 --- /task ---
   
