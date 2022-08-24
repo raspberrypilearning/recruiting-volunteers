@@ -28,7 +28,30 @@ Dojos told us that they recruit:
 
 --- /task ---
   
-## Ways to recruit
+  
+## Where to promote
+
+To reach potential volunteers, where will you need to advertise your opportunity? Think about the key places and platforms those you want to reach engage with - where are they based?
+
+--- collapse ---
+
+---
+title: Examples of where to promote
+---
+
++ School playground/halls
++ Community spaces (libraries, youth clubs, leisure centres, community halls)
++ Corporate spaces
++ Event venues
++ Online platforms (public platforms and private intranets)
++ Local media
+
+
+--- /collapse ---
+
+
+  
+## How to recruit
 + Word of mouth
 + Social media
 + Posters
