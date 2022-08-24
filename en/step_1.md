@@ -39,3 +39,4 @@ Your Dojo might need volunteers to help with:
 </div>
 --- /task ---
 --- /no-print ---
+Before discussing a volunteer opportunity with someone it can be useful to have an outline of what you want the volunteer to do, and the benefits of volunteering in mind. Developing a role description can be useful for this.
