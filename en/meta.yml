@@ -8,9 +8,9 @@ copyedit: false
 last_tested: '2021-03-26'
 steps:
 - title: Reflect
-- title: Who and how to recruit
+- title: Promote: who and how
 - title: Role descriptions
-- title: Step title
+- title: Responding
 - title: Reflection
   knowledge_quiz:
     path: quiz1
