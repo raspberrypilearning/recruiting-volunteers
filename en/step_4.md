@@ -8,11 +8,13 @@ Once your opportunity is shared be ready to respond to any interest. When you re
 --- no-print ---
   
 --- task ---
+
 Respond quickly and politely to ensure that the first impression of your Dojo is a positive one.
 
 --- /task ---
   
 --- task ---
+
 Share more detailed information about the Dojo, the role and expectations. 
   
 --- /task ---
@@ -20,7 +22,9 @@ Share more detailed information about the Dojo, the role and expectations.
 This will help people to decide on whether the role is a good fit for them or not. The role description you developed earlier should help with this.
 
 --- task ---
+
 Invite them along to visit your Dojo so that they can find out more and so you can get to know them too. Alternatively you could arrange to meet them in a public place.
+
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
