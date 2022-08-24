@@ -45,8 +45,11 @@ title: Examples of where to promote
 + Online platforms and websites (public sites and private intranets)
 + Local media
 --- /collapse ---
+  
 --- task ---
+  
 **Think** about the key places and platforms those you want to reach engage with - where are they based?
+  
 --- /task ---
   
 ## How to recruit
