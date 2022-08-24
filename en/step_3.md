@@ -1,4 +1,4 @@
-## Promte
+## Promote
 There are three key elements to consider when promoting volunteer opportunities; who, where and how.
 
 
