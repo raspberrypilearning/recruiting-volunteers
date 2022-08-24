@@ -1,7 +1,7 @@
 ## Promte
 There are three key elements to consider when promoting volunteer opportunities; who, where and how.
 
-### Who to recruit
+## Who to recruit
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -31,8 +31,7 @@ Dojos told us that they recruit:
   
 ## Where to promote
 
-To reach potential volunteers, where will you need to advertise your opportunity? Think about the key places and platforms those you want to reach engage with - where are they based?
-
+To reach potential volunteers, where will you need to advertise your opportunity? 
 --- collapse ---
 
 ---
@@ -43,13 +42,12 @@ title: Examples of where to promote
 + Community spaces (libraries, youth clubs, leisure centres, community halls)
 + Corporate spaces
 + Event venues
-+ Online platforms (public platforms and private intranets)
++ Online platforms and websites (public sites and private intranets)
 + Local media
-
-
 --- /collapse ---
-
-
+--- task ---
+**Think** about the key places and platforms those you want to reach engage with - where are they based?
+--- /task ---
   
 ## How to recruit
 + Word of mouth
