@@ -40,12 +40,11 @@ To reach potential volunteers, where will you need to advertise your opportunity
 title: Examples of where to promote
 ---
 
-+ School playground/halls
 + Community spaces (libraries, youth clubs, leisure centres, community halls)
 + Corporate spaces
-+ Event venues
-+ Online platforms and websites (public sites and private intranets)
-+ Local media
++ Local notice boards
++ Online platforms and websites (social media sites and private intranets)
++ Local media (newspaper, radio)
   
 --- /collapse ---
   
@@ -57,8 +56,9 @@ title: Examples of where to promote
 --- /task ---
   
 ## How to recruit
-+ Word of mouth
-+ Social media
++ Talk to people directly
++ Social media posts
++ Direct email
 + Posters
 + Newspaper articles
 + Radio interviews
@@ -68,7 +68,7 @@ title: Examples of where to promote
 
 --- task ---
 
-**Review** the list of 'ways to recruit'. Which of these approaches would be most impactful in your local area? What approach would you prefer to try? Is there any other ways you could reach potential volunteers in your local area not mentioned on this list?
+**Review** the 'How to recruit' list. Which of these approaches would be most impactful in your local area? What approach would you prefer to try? Is there any other ways you could reach potential volunteers in your local area not mentioned on this list?
 
 --- /task ---
   
