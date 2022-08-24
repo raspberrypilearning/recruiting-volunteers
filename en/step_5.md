@@ -2,7 +2,17 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-
+--- task ---
+**Think** about how you want those who are interested to contact you about the volunteer oppurtunity. 
+--- /task ---
+This will depend on the approach you have chosen.
+  
+You might ask those who see a poster, or see a newspaper advertisement to email the Dojo's email address if they are interested.
+You might ask those who see a social media post about it, to comment on the post or directly message you on that channel.
+If you are talking to someone you know, you might give them your mobile number to call you back once they have thought about it.
+--- task ---
+**Decide** how you want interested people to follow up about the oppourtunity. Make sure this is easy for those who hear about the oppurtunity.
+--- /task ---
 Once your opportunity is shared be ready to respond to any interest. When you recieve responses:
   
 --- task ---
@@ -41,21 +51,5 @@ This feedback may help you to consider:
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
 </div>
 </div>
-
---- task ---
-
-Another step of tasks to complete.
-
---- /task ---
-
---- task ---
-
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
-
---- /task ---
 
 --- save ---
