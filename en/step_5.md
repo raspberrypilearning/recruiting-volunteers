@@ -15,16 +15,16 @@ You might ask those who see a poster, or see a newspaper advertisement to **emai
 You could suggest those who see a social media post about it, to **comment** on the post or **directly message** you on that channel.
 If you are talking to someone you know, you might give them your mobile number to **call you back** once they have thought about it.
   
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Choose a contact method that you check and use regularly, so it is easy for you to respond quickly to inquiries.
-</p>
 
-  
 --- task ---
   
 **Decide** how you want interested people to follow up about the opportunity. Make sure this is easy for those who hear about the opportunity.
   
 --- /task ---
+  
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Choose a contact method that you check and use regularly, so it is easy for you to respond quickly to inquiries.
+</p>
   
 Once your opportunity is shared, be ready to respond to any interest. When you receive responses:
   
