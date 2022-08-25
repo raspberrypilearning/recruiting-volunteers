@@ -1,6 +1,6 @@
 ## Resources to promote
 
-Linked below are some useful resources you can use and adapt to help promote volunteer oppurtunities for your Dojo.
+Linked below are some useful resources you can use and adapt to help promote volunteer opportunities for your Dojo.
 
 Poster - "Volunteers needed” editable template
 
