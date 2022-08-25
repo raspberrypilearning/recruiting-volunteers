@@ -166,7 +166,7 @@ Make sure that your Volunteer role description does not read like a job descript
 --- /collapse ---
   
 --- task ---
-Ensure volunteer role description is attractive to potential volunteers, and does not read like a job description.
+Ensure the volunteer role description is attractive to potential volunteers, and does not read like a job description.
 --- /task ---
 
 --- save ---
