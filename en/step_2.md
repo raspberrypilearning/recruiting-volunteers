@@ -142,7 +142,7 @@ When writing the description, make sure it offers a good volunteering experience
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Benefits of volunteering** with a Dojo include learning new skills (communication, teamwork, group management), the opportunity to share your knowledge and experience, making new friends and feeling empowered by helping young people develop skills for the future.
+<span style="color: #0faeb0">The **benefits of volunteering** include learning new skills (communication, teamwork, group management), the opportunity to share your knowledge and experience, making new friends and feeling empowered by helping young people develop skills for the future.
 </p>
   
 Are there other benefits you and others in your Dojo have gained through the experience of volunteering? 
