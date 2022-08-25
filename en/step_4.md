@@ -13,6 +13,7 @@ Linked below are some useful resources you can use and adapt to help promote vol
 </div>
 </div>
 --- /task ---
+
 --- collapse ---
 
 ---
@@ -91,12 +92,10 @@ Utilise your local paper or radio station by proposing to do an article or segme
 
 ### Current volunteers, sponsors or venue staff asked to recruit others
 
+--- task ---
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
 **Ask** a friend, relative or collegue to review and test the resource and/or communication in advance of using it, to make sure the messaging is clear and they know and can complete the action you want them to take afterwards.
-</div>
-</div>
+
 --- /task ---
 
 
