@@ -5,7 +5,7 @@
 
 --- task ---
   
-**Think** about how you want those who are interested to contact you about the volunteer oppurtunity. 
+**Think** about how you want those who are interested to contact you about the volunteer opportunity. 
 
 --- /task ---
  
@@ -17,7 +17,7 @@ If you are talking to someone you know, you might give them your mobile number t
   
 --- task ---
   
-**Decide** how you want interested people to follow up about the oppourtunity. Make sure this is easy for those who hear about the oppurtunity.
+**Decide** how you want interested people to follow up about the opportunity. Make sure this is easy for those who hear about the opportunity.
   
 --- /task ---
   
