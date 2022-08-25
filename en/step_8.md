@@ -4,17 +4,13 @@ If you are following the [Recruitment, onboarding and retention](https://project
 
 --- print-only ---
 
-![ProjectName project](images/projectname-project.png)
-
 --- /print-only ---
 
 --- no-print ---
 
 <div class="scratch-preview" style="margin-left: 15px;">
 <iframe width="658" height="370" src="https://www.youtube.com/embed/Q6M0IdEn07E" title="Why volunteers help at their local CoderDojo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/486719199/?autostart=false" frameborder="0"></iframe>
-</div>
+ 
 
 --- /no-print ---
 
