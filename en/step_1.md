@@ -40,3 +40,7 @@ Your Dojo might need volunteers to help with:
 --- /task ---
 --- /no-print ---
 Before discussing a volunteer opportunity with someone it can be useful to have an outline of what you want the volunteer to do, and the benefits of volunteering in mind. Developing a **role description** can be useful for this.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Benifits of volunteering** with a Dojo include learning new skills (communication, teamwork, group management), the opportunity to share your knowledge and experience, it is a great way to give back to your community, meeting like minded people, making new friends and feeling empowered by helping young people develop skills for the future.
+</p>
