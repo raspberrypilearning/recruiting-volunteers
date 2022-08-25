@@ -94,7 +94,11 @@ Utilise your local paper or radio station by proposing to do an article or segme
 
 --- task ---
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
 **Ask** a friend, relative or collegue to review and test the resource and/or communication in advance of using it, to make sure the messaging is clear and they know and can complete the action you want them to take afterwards.
+</div>
+</div>
 
 --- /task ---
 
