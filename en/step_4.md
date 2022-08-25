@@ -18,6 +18,7 @@ A4, 4 x  A6 card handout template
 --- /collapse ---
 
 --- collapse ---
+
 ---
 title: Social media posts
 ---
@@ -32,16 +33,28 @@ Social media copy templates
 
 --- /collapse ---
 
-### Direct email or letter
+--- collapse ---
+
+---
+title: Direct email or letter
+---
 
 Template letter to a general audience
 Template letter to a corporate office
 Template letter to a educational institution
 Template letter to parents
 
+--- /collapse ---
 
-### Placing posters in key places
+
+--- collapse ---
+
+---
+title: Placing posters in key places
+---
 Poster - "Volunteers needed” editable template
+
+--- /collapse ---
 
 ### Talking to parents of attendees
 
