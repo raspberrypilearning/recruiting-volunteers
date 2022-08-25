@@ -23,7 +23,7 @@ If you are talking to someone you know, you might give them your mobile number t
 --- /task ---
   
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Choose a contact method that you check and use regularly, so it is easy for you to respond quickly to inquiries.
+<span style="color: #0faeb0">Choose a contact method that you **check and use regularly**, so it is easy for you to respond quickly to inquiries.
 </p>
   
 Once your opportunity is shared, be ready to respond to any interest. When you receive responses:
