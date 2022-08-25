@@ -41,8 +41,7 @@ title: Examples of where to promote
 ---
 
 + Community spaces (libraries, youth clubs, leisure centres, community halls)
-+ Corporate spaces
-+ Local notice boards
++ Corporate spaces (office notice boards, shops)
 + Online platforms and websites (social media sites and private intranets)
 + Local media (newspaper, radio)
   
@@ -63,8 +62,7 @@ title: Examples of where to promote
 + Newspaper articles
 + Radio interviews
 + Presentations or visits to local companies
-+ Volunteers asked to recruit others
-+ Sponsors/Venue staff asked to recruit others
++ Current volunteers, parents, sponsors or venue staff asked to recruit others
 
 --- task ---
 
@@ -79,7 +77,7 @@ title: Examples of where to promote
 --- /task ---
  
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**A direct and personal invitation is often more successful.** Reach out to those you know, or have a colleague or friend introduce you to someone they think would be interested in the opportunity.
+<span style="color: #0faeb0">**A direct and personal invitation is often more successful.** Reach out to those you know, or have a colleague or friend introduce you to someone they think would be interested in the opportunity. Personalise emails where possible.
 </p>
 
 </div>
