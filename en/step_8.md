@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [PathName](https://projects.raspberrypi.org/en/raspberrypi/path-name) path, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+If you are following the [Recruitment, onboarding and retention](https://projects.raspberrypi.org/en/raspberrypi/path-name) training path, you can move on to the [Onboarding](https://projects.raspberrypi.org/en/projects/project-name) training. In this course, you will learn how to onboard new volunteers successfully and gain insights from other champions around the world.
 
 --- print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [PathName](https://projects.raspberrypi.org/en/raspberr
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+If you want to have more explore our How to Mentor at a Dojo training, or see our projects then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects).
