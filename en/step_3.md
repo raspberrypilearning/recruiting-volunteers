@@ -18,13 +18,13 @@ Dojos told us that they recruit:
   
 --- task ---
 
-**Look** through the list of 'who to recruit'. Is there any other groups of people in your area you could recruit volunteers from that aren't included in this list?
+**Look** through the list of 'who to recruit'. Are there any other groups of people in your area you could recruit volunteers from that aren't included in this list?
 
 --- /task ---
   
 --- task ---
 
-**Write down** the groups of people who might be available, or interested in volunteer oppurtunuties in your club. 
+**Write down** the groups of people who might be available, or interested in volunteer opportunities in your club. 
 
 
 --- /task ---
@@ -79,7 +79,7 @@ title: Examples of where to promote
 --- /task ---
  
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**A direct and personal invitation is often more successful.** Reach out to those you know, or have a collegue or friend introduce you to someone they think would be interested in the oppurtunity.
+<span style="color: #0faeb0">**A direct and personal invitation is often more successful.** Reach out to those you know, or have a colleague or friend introduce you to someone they think would be interested in the opportunity.
 </p>
 
 </div>
