@@ -11,9 +11,9 @@
  
 This will depend on the approach you have chosen.
   
-You might ask those who see a poster, or see a newspaper advertisement to email the Dojo's email address if they are interested.
-You could suggest those who see a social media post about it, to comment on the post or directly message you on that channel.
-If you are talking to someone you know, you might give them your mobile number to call you back once they have thought about it.
+You might ask those who see a **poster**, or see a **newspaper advertisement** to **email** the Dojo's email address if they are interested.
+You could suggest those who see a **social media post** about it, to **comment** on the post or **directly message** you on that channel.
+If you are **talking** to someone you know, you might give them your mobile number to **call you back** once they have thought about it.
   
 --- task ---
   
