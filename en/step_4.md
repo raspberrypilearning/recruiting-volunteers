@@ -70,10 +70,9 @@ Orientation slide deck for parents/guardians
 
 --- /collapse ---
 
-### Newspaper articles
+### Newspaper articles or radio interviews
 
-
-### Radio interviews
+Utilise your local paper or radio station by proposing to do an article or segment about CoderDojo and your local club. You can then include a call out for Mentors.
 
 
 ### Presentations or visits to local companies
