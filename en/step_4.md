@@ -1,6 +1,6 @@
 ## Resources to promote
 
-Linked below are some useful resources you can use and adapt to help promote volunteer opportunities for your Dojo.
+Linked below are some useful resources you can use and adapt to help promote volunteer opportunities for your Dojo. They are organised according to the approach you decide on to reach out to potential volunteers.
 
 ### Talk to people directly
 
@@ -20,11 +20,19 @@ Social media copy templates
 
 ### Direct email or letter
 
+Template letter to a general audience
+Template letter to a corporate office
+Template letter to a educational institution
 Template letter to parents
 
 
 ### Placing posters in key places
 Poster - "Volunteers needed” editable template
+
+### Talking to parents of attendees
+
+Parent/guardian guide to CoderDojo
+Orientation slide deck for parents/guardians
 
 ### Newspaper articles
 
