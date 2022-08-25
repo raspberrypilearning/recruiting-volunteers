@@ -12,8 +12,10 @@ You might ask those who see a social media post about it, to comment on the post
 If you are talking to someone you know, you might give them your mobile number to call you back once they have thought about it.
 --- task ---
 **Decide** how you want interested people to follow up about the oppourtunity. Make sure this is easy for those who hear about the oppurtunity.
+  
 --- /task ---
-Once your opportunity is shared be ready to respond to any interest. When you recieve responses:
+  
+Once your opportunity is shared, be ready to respond to any interest. When you receive responses:
   
 --- task ---
 
