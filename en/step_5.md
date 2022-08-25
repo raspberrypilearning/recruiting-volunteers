@@ -25,13 +25,13 @@ Once your opportunity is shared, be ready to respond to any interest. When you r
   
 --- task ---
 
-Respond quickly and politely to ensure that the first impression of your Dojo is a positive one.
+**Respond quickly and politely** to ensure that the first impression of your Dojo is a positive one.
 
 --- /task ---
   
 --- task ---
 
-Share more detailed information about the Dojo, the role and expectations. 
+**Share** more detailed information about the Dojo, and answer any questions they have about the role. 
   
 --- /task ---
   
@@ -39,7 +39,7 @@ This will help people to decide on whether the role is a good fit for them or no
 
 --- task ---
 
-Invite them along to visit your Dojo so that they can find out more and so you can get to know them too. Alternatively you could arrange to meet them in a public place.
+**Invite them to visit your Dojo** so that they can find out more and so you can get to know them too. Alternatively you could arrange to meet them in a public place.
 
 --- /task ---
 
@@ -47,7 +47,7 @@ Invite them along to visit your Dojo so that they can find out more and so you c
 <span style="color: #0faeb0">**Remember:** visitors who haven’t obtained a background check, should be accompanied by a vetted volunteer at all times and not be left unattended with young people. 
 </p>
   
-Not every response leads to a new volunteer onboarding, and that’s okay! If this happens, firstly, thank people for their interest, but also use the opportunity to get any feedback around why the role may not have been a good fit.
+Not every response leads to a new volunteer joining your Dojo, and that’s okay! When this happens, firstly, thank people for their interest, but also use the opportunity to get any feedback around why the role may not have been a good fit.
 This feedback may help you to consider:
 
 + Any alternative roles for the individual
