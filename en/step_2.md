@@ -75,7 +75,7 @@ title: Mentor (guidance)
 + Encourage young people to participate in the session activities
 + Provide basic support to young people who are new to coding
 
-The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. This Mentors usually arrive 10 minutes in advance of the session, and stay 10 minutes after the session ends. Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Mentors usually arrive 10 minutes in advance of the session, and stay 10 minutes after the session ends. Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 --- /collapse ---
