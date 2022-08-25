@@ -144,13 +144,14 @@ When writing the description, make sure it offers a good volunteering experience
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Benefits of volunteering** with a Dojo include learning new skills (communication, teamwork, group management), the opportunity to share your knowledge and experience, making new friends and feeling empowered by helping young people develop skills for the future.
 </p>
+  
 Are there other benefits you and others in your Dojo have gained through the experience of volunteering? 
+  
 --- task ---
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
+  
 **Write** down three benefits of volunteering with your Dojo, so you have them to mind when talking to potential volunteers.
-</div>
-</div>
+
+
 --- /task ---
 
 
@@ -163,6 +164,7 @@ title: Legal issues with volunteer role descriptions
 Make sure that your Volunteer role description does not read like a job description. You must be careful not to imply a volunteer is under contract to perform specific tasks. If it looks like you treat them as an employee, they may be eligible for full employment rights and you could be in breach of employment law. Be clear that it is an unpaid voluntary role, and volunteers can leave at any time. Don’t give volunteers an income, avoid asking for a minimum time period commitment and avoid using language used for employment. Words such as ‘contract’, ‘job’ and ‘requirements’ are inappropriate for volunteers, instead the language should be ‘agreement’, ‘role’ and ‘hopes’ or ‘expectations’.
 
 --- /collapse ---
+  
 --- task ---
 Ensure volunteer role description is attractive to potential volunteers, and does not read like a job description.
 --- /task ---
