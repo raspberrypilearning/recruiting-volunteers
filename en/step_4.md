@@ -35,7 +35,7 @@ Social media copy templates
 
 --- /collapse ---
 
-We recommend that Dojos set up at least one Social Media account to use for promoting your Dojo sessions and finding volunteers & supporters. Start by reaching out to local organisations, tech communities and representatives via your social media channel explaining what CoderDojo is, the benifits and what kind of tasks you are looking for volunteers to support with.
+We recommend that Dojos set up at least one social media account to use for promoting your Dojo sessions and finding volunteers & supporters.
 
 --- collapse ---
 
