@@ -5,13 +5,7 @@
 legend: Question 2 of 3
 ---
 
-You made Pico say hello in a speech bubble.
-
-```blocks3
-say [Hello!] for [2] secs
-```
-
-What are some of the benifits of volunteering with a Dojo?
+What are some of the benefits of volunteering with a Dojo?
 
 --- choices ---
 
@@ -19,7 +13,7 @@ What are some of the benifits of volunteering with a Dojo?
 
   --- feedback ---
 
-Volunteering with a Dojo provides a great oppourtunity to learn new skills. Other benifits include giving volunteers the chance to share their knowledge and experience.
+Volunteering with a Dojo provides a great opportunity to learn new skills. Other benefits include giving volunteers the chance to share their knowledge and experience.
 
   --- /feedback ---
 
