@@ -17,6 +17,8 @@ A4, 4 x  A6 card handout template
 
 --- /collapse ---
 
+Some people may have youth work or technical  skills you want in your Dojo, others can help with Dojo admin tasks to help free up technical mentors.  Even if they may not be able to Mentor at the Dojo themselves it’s a great way to spread the word. Are there programmers or people with the skills you need at their places of work? This is a great way to source new Mentors for the Dojo.
+
 --- collapse ---
 
 ---
