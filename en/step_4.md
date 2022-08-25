@@ -56,10 +56,15 @@ Poster - "Volunteers needed” editable template
 
 --- /collapse ---
 
-### Talking to parents of attendees
+--- collapse ---
 
+---
+title: Talking to parents of attendees
+---
 Parent/guardian guide to CoderDojo
 Orientation slide deck for parents/guardians
+
+--- /collapse ---
 
 ### Newspaper articles
 
