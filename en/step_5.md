@@ -54,6 +54,5 @@ This feedback may help you to consider:
 + Tweaking or clarifying your role description if this may improve future recruitment
 + Flexibility, is there a way that you could accommodate specific needs?
 
-</div>
 
 --- save ---
