@@ -68,7 +68,7 @@ title: Examples of where to promote
 
 --- task ---
 
-**Review** the 'How to recruit' list. Which of these approaches would be most impactful in your local area? What approach would you prefer to try? Is there any other ways you could reach potential volunteers in your local area not mentioned on this list?
+**Review** the 'How to recruit' list. Which of these approaches would be most impactful in your local area? What approach would you prefer to try? Are there other ways you could reach potential volunteers in your local area not mentioned on this list?
 
 --- /task ---
   
