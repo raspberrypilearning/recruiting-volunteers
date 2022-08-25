@@ -2,14 +2,25 @@
 
 Linked below are some useful resources you can use and adapt to help promote volunteer opportunities for your Dojo. They are organised according to the approach you decide on to reach out to potential volunteers.
 
-### Talk to people directly
+--- collapse ---
+
+---
+title: Talk to people directly
+---
 
 Example script to ask someone to be a volunteer
 
 Enquiry cards to hand out:
 A4, 4 x  A6 card handout template
 
-### Social media posts
+
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Social media posts
+---
 
 Social media image cards:
 + “Volunteers needed” social card for Facebook
@@ -17,6 +28,9 @@ Social media image cards:
 + “Volunteers needed” social card for Instagram
 
 Social media copy templates
+
+
+--- /collapse ---
 
 ### Direct email or letter
 
