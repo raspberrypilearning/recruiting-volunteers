@@ -8,6 +8,8 @@ Once completed you should:
 - Learn where and how to recruit potential volunteers
 - Know what resources are available to help recruit volunteers
 
+To get the most from this training have a pen and paper, or typing notepad tool, to take notes and complete the course tasks.
+
 ## Reflect on your experience
 Before looking for new volunteers it is worth reflecting on how you heard about and became involved in CoderDojo. 
 
