@@ -8,6 +8,16 @@ Once completed you should:
 - Learn where and how to recruit potential volunteers
 - Know what resources are available to help recruit volunteers
 
+## Reflect on becoming a volunteer
+Before looking for new volunteers it is worth reflecting on how you heard about and became involved in CoderDojo. 
+
+--- task ---
+
+Think about what motivated you to volunteer. What made your experience rewarding, or challenging? How did you gain the skills and confidence needed to run a Dojo?
+
+--- /task ---
+
+The motivations of new volunteers to your Dojo may be similar or very different to your own. How can you use your experience to make a new volunteer’s journey a positive experience?
 
 ## Reflect on your Dojo's volunteer needs
 
