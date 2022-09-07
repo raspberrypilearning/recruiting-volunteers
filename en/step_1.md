@@ -3,8 +3,8 @@
 This course will primarily focus on supporting those involved in managing and running a Dojo to recruit volunteers.
 
 Once completed you should:
-- Understand what tasks you need volunteers to help with
-- See how to create a volunteer role description
+- Understand what tasks volunteers can help with
+- Know how to create a volunteer role description
 - Learn where and how to recruit potential volunteers
 - Know what resources are available to help recruit volunteers
 
