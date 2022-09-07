@@ -1,3 +1,15 @@
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Volunteers are the backbone of CoderDojo. Without them, CoderDojo would not exist!</p>
+
+This course will primarily focus on supporting those involved in managing and running a Dojo to recruit volunteers.
+
+Once completed you should:
+- Understand what tasks you need volunteers to help with
+- See how to create a volunteer role description
+- Learn where and how to recruit potential volunteers
+- Know what resources are available to help recruit volunteers
+
+
 ## Reflect on your Dojo's volunteer needs
 
  
