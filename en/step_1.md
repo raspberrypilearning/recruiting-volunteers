@@ -1,5 +1,4 @@
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Volunteers are the backbone of CoderDojo. Without them, CoderDojo would not exist!</p>
+## Introduction
 
 This course will primarily focus on supporting those involved in managing and running a Dojo to recruit volunteers.
 
