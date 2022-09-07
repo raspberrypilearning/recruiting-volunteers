@@ -8,7 +8,7 @@ Once completed you should:
 - Learn where and how to recruit potential volunteers
 - Know what resources are available to help recruit volunteers
 
-## Reflect on becoming a volunteer
+## Reflect on your experience
 Before looking for new volunteers it is worth reflecting on how you heard about and became involved in CoderDojo. 
 
 --- task ---
