@@ -15,11 +15,17 @@ Before looking for new volunteers it is worth reflecting on how you heard about 
 
 --- task ---
 
-Think about what motivated you to volunteer. What made your experience rewarding, or challenging? How did you gain the skills and confidence needed to run a Dojo?
+**Think** about what motivated you to volunteer. Note down what made your experience rewarding, or challenging. 
 
 --- /task ---
 
-The motivations of new volunteers to your Dojo may be similar or very different to your own. How can you use your experience to make a new volunteer’s journey a positive experience?
+The motivations of new volunteers to your Dojo may be similar or very different to your own. 
+
+--- task ---
+
+**Consider** how you can use your experience to make a new volunteer’s journey a positive experience?
+
+--- /task ---
 
 ## Reflect on your Dojo's volunteer needs
 
