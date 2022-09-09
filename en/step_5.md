@@ -3,17 +3,21 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
+How people respond will depend on the approach you have chosen to promote volunteer oppurtunities.
+  
 --- task ---
   
 **Think** about how you want those who are interested to contact you about the volunteer opportunity. 
 
 --- /task ---
  
-This will depend on the approach you have chosen.
-  
 You might ask those who see a poster, or see a newspaper advertisement to **email** the Dojo's email address if they are interested.
+  
 You could suggest those who see a social media post about it, to **comment** on the post or **directly message** you on that channel.
-If you are talking to someone you know, you might give them your mobile number to **call you back** once they have thought about it. If you are posting about volunteer opportunities online you might provide a link to an **online form** (eg. Google Form) for potential volunteers to fill out.
+  
+If you are talking to someone you know, you might give them your mobile number to **call you back** once they have thought about it. 
+  
+If you are posting about volunteer opportunities online you might provide a link to an **online form** (eg. Google Form) for potential volunteers to fill out.
   
 
 --- task ---
