@@ -1,8 +1,6 @@
 ## Resources to promote
 
-Linked below are some useful resources you can use and adapt to help promote volunteer opportunities for your Dojo. They are organised according to the approach you decide on to reach out to potential volunteers.
-
-Communications should include: 
+Linked below are some useful resources you can use and adapt to help promote volunteer opportunities for your Dojo. They are organised according to the approach you decide on to reach out to potential volunteers. Communications should include: 
 + key tasks volunteers will support with
 + when they will be needed
 + a clear call to action (what people should do if they are interested)
