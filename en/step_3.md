@@ -28,7 +28,9 @@ Dojos told us that they recruit:
 
 
 --- /task ---
-  
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0"> Focus on speaking to people connected to and passionate about the Dojo first. If needed you can then reach out to the wider community. </p>
   
 ## Where to promote
 
@@ -50,11 +52,11 @@ title: Examples of where to promote
   
 --- task ---
   
-**Think** about the key places and platforms those you want to reach visit and use. 
+**Think** about the key places and platforms that the people you want to reach, visit and use. 
   
 --- /task ---
   
-## How to recruit
+## How to promote
 + Talk to people directly
 + Social media posts
 + Direct email
@@ -62,11 +64,12 @@ title: Examples of where to promote
 + Newspaper articles
 + Radio interviews
 + Presentations or visits to local companies
++ Host an information session for prospective volunteers
 + Current volunteers, parents, sponsors or venue staff asked to recruit others
 
 --- task ---
 
-**Review** the 'How to recruit' list. Which of these approaches would be most impactful in your local area? What approach would you prefer to try? Are there other ways you could reach potential volunteers in your local area not mentioned on this list?
+**Review** the 'How to promote' list. Which of these approaches would be most impactful in your local area? What approach would you prefer to try? Are there other ways you could reach potential volunteers in your local area not mentioned on this list?
 
 --- /task ---
   
@@ -80,4 +83,5 @@ title: Examples of where to promote
 <span style="color: #0faeb0">**A direct and personal invitation is often more successful.** Reach out to those you know, or have a colleague or friend introduce you to someone they think would be interested in the opportunity. Personalise emails where possible.
 </p>
 
+Tip: Highlight training, support and resources available when talking to prospective volunteers. These include our [“How to mentor” online training module](https://projects.raspberrypi.org/en/projects/dojo-mentoring/0){:target="_blank"}, and our [step-by-step projects](https://projects.raspberrypi.org/en/coderdojo){:target="_blank"} young people follow.
 </div>
