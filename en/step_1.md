@@ -8,8 +8,6 @@ Once completed you should:
 - Learn where and how to recruit potential volunteers
 - Know what resources are available to help recruit volunteers
 
-To get the most from this training have a pen and paper, or typing notepad tool, to take notes and complete the course tasks.
-
 ## Reflect on your experience
 Before looking for new volunteers it is worth reflecting on how you heard about and became involved in CoderDojo. 
 
@@ -73,4 +71,5 @@ The number of volunteers will depend on how many young people attend your sessio
   <span style="color: #0faeb0">We recommend a ratio of **one mentor to every eight children.**</p> 
 
 --- /no-print ---
-Before discussing a volunteer opportunity with someone it can be useful to have an outline of what you want the volunteer to do, and the benefits of volunteering in mind. Developing a **role description** can be useful for this.
+
+  Before discussing a volunteer opportunity with someone it can be useful to have an outline of what you want the volunteer to do, and the benefits of volunteering in mind. Developing a **role description** can be useful for this.
