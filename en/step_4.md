@@ -3,11 +3,13 @@
 Linked below are some useful resources you can use and adapt to help promote volunteer opportunities for your Dojo. They are organised according to the approach you decide on to reach out to potential volunteers.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Communications should include: 
+<span style="color: #0faeb0">
+Communications should include: 
   
 + key tasks volunteers will support with
 + when they will be needed
-+ a clear all to action (what people should do if they are interested).
++ a clear call to action (what people should do if they are interested).
+  
 </p>
 
 --- task ---
@@ -96,7 +98,7 @@ Utilise your local paper or radio station by proposing to do an article or segme
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-**Ask** a friend, relative or collegue to review and test the resource and/or communication in advance of using it, to make sure the messaging is clear and they know and can complete the action you want them to take afterwards.
+**Ask** a friend, relative or colleague to review and test the resource and/or communication in advance of using it, to make sure the messaging is clear and they know and can complete the action you want them to take afterwards.
 </div>
 </div>
 
