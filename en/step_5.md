@@ -38,6 +38,23 @@ Once your opportunity is shared, be ready to respond to any interest. When you r
 
 --- /task ---
   
+--- collapse ---
+
+---
+title:Responding to Volunteer requests on the CoderDojo Platform, Zen
+---
+
+1. Log in to your account on the CoderDojo platform, Zen
+2. If you are a champion, select “My Dojos” from the drop down menu on the right
+3. Select the Dojo, and click on “Manage Users”
+4. Select the ‘user requests’ tab to see those who have requested to join your Dojo as volunteers
+5. Click to “accept” or “decline” the request
+Once accepted, volunteers will show in your "Active Users" section and you will be able to email them and invite them to upcoming events through the platform.
+
+<iframe width="600" height="337" src="https://www.youtube.com/embed/JVKgauEZluo" title="How to respond to volunteer requests on the CoderDojo platform" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+--- /collapse ---
+  
 --- task ---
 
 **Share** more detailed information about the Dojo, and answer any questions they have about the role. 
