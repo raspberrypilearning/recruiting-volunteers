@@ -41,7 +41,7 @@ Once your opportunity is shared, be ready to respond to any interest. When you r
 --- collapse ---
 
 ---
-title:Responding to Volunteer requests on the CoderDojo Platform, Zen
+title: Responding to Volunteer requests on the CoderDojo Platform, Zen
 ---
 
 1. Log in to your account on the CoderDojo platform, Zen
