@@ -30,21 +30,13 @@ If you are posting about volunteer opportunities online you might provide a link
 <span style="color: #0faeb0">Choose a contact method that you **check and use regularly**, so it is easy for you to respond promptly to inquiries.
 </p>
   
-Once your opportunity is shared, be ready to respond to any interest. When you receive responses:
-  
---- task ---
-
-**Respond quickly and politely** to ensure that the first impression of your Dojo is a positive one.
-
---- /task ---
-  
 --- collapse ---
 
 ---
 title: Responding to Volunteer requests on the CoderDojo Platform, Zen
 ---
 
-1. Log in to your account on the CoderDojo platform, Zen
+1. Log in to your account on the [CoderDojo platform, Zen](https://coderdojo.com/)
 2. If you are a champion, select “My Dojos” from the drop down menu on the right
 3. Select the Dojo, and click on “Manage Users”
 4. Select the ‘user requests’ tab to see those who have requested to join your Dojo as volunteers
@@ -56,6 +48,15 @@ title: Responding to Volunteer requests on the CoderDojo Platform, Zen
 Once accepted, volunteers will show in your "Active Users" section and you will be able to email them and invite them to upcoming events through the platform.
   
 --- /collapse ---
+  
+Once your opportunity is shared, be ready to respond to any interest. When you receive responses:
+  
+--- task ---
+
+**Respond quickly and politely** to ensure that the first impression of your Dojo is a positive one.
+
+--- /task ---
+  
   
 --- task ---
 
