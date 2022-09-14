@@ -16,7 +16,7 @@ Linked below are some useful resources you can use and adapt to help promote vol
 title: Talk to people directly
 ---
 
-[Points to include when asking someone to be a volunteer](https://help.coderdojo.com/cdkb/s/article/Asking-someone-to-volunteer-with-your-Dojo-example-script){:target="_blank"}
+[Points to include when asking someone to be a volunteer](https://help.coderdojo.com/cdkb/s/article/Things-to-consider-when-asking-someone-to-volunteer){:target="_blank"}
 
 Enquiry cards to hand out:
 [Four A6 postcards on one A4 page for printing](https://drive.google.com/file/d/1yWqghhkQ5C1n27uY_jSCrNb8SZfpSpG2/view){:target="_blank"}
@@ -54,7 +54,7 @@ title: Direct email or letter
 [Template letter to a general audience](https://help.coderdojo.com/cdkb/s/article/Template-letter-for-finding-mentors-volunteers-general){:target="_blank"}
 [Template letter to a corporate office](https://help.coderdojo.com/cdkb/s/article/Template-letter-for-finding-mentors-corporate-office){:target="_blank"}
 [Template letter to a educational institution](https://help.coderdojo.com/cdkb/s/article/Template-letter-for-finding-mentors-educational-institution){:target="_blank"}
-[Template letter to parents and guardians](https://help.coderdojo.com/cdkb/s/article/Parents-and-guardians-as-volunteers){:target="_blank"}
+[Template letter to parents and guardians](https://help.coderdojo.com/cdkb/s/article/Template-letter-for-recruiting-parents-and-guardians-as-volunteers){:target="_blank"}
 
 --- /collapse ---
 
@@ -73,8 +73,9 @@ title: Placing posters in key places
 ---
 title: Talking to parents of attendees
 ---
-Parent/guardian guide to CoderDojo
-Orientation slide deck for parents/guardians
+[Parent/guardian guide to CoderDojo](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo){:target="_blank"}
+[Orientation slide deck for parents/guardians](https://help.coderdojo.com/cdkb/s/article/Orientation-for-parents-and-guardians-slide-deck){:target="_blank"}
+[Template letter to parents and guardians](https://help.coderdojo.com/cdkb/s/article/Template-letter-for-recruiting-parents-and-guardians-as-volunteers){:target="_blank"}
 
 --- /collapse ---
 
@@ -83,8 +84,15 @@ Orientation slide deck for parents/guardians
 Utilise your local paper or radio station by proposing to do an article or segment about CoderDojo and your local club. You can then include a call out for Mentors.
 
 
-### Presentations or visits to local companies
+--- collapse ---
 
+---
+title: Presentations or visits to local companies
+---
+
+[CoderDojo presentation template](https://help.coderdojo.com/cdkb/s/article/CoderDojo-presentation-template){:target="_blank"}
+
+--- /collapse ---
 
 ### Current volunteers, sponsors or venue staff asked to recruit others
 
