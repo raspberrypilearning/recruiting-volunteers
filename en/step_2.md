@@ -19,7 +19,7 @@ Below are six different example volunteer role descriptions that you can adapt t
   
 The role descriptions are not exclusive or exhaustive. Many volunteers will have a primary role, but will help out in other areas of the club and with other tasks as required.
   
-![A Venn diagram of volunteer roles in a Dojo](Venn-Roles.png)
+![A Venn diagram of volunteer roles in a Dojo](images/Venn-Roles.png)
 
 --- collapse ---
 
