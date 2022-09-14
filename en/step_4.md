@@ -25,7 +25,7 @@ Enquiry cards to hand out:
 
 --- /collapse ---
 
-Some people may have youth work or technical  skills you want in your Dojo, others can help with Dojo admin tasks to help free up technical mentors.  Even if they may not be able to Mentor at the Dojo themselves it’s a great way to spread the word. Are there programmers or people with the skills you need at their places of work?
+Some people may have youth work or technical  skills you want in your Dojo, others can help with Dojo admin tasks to help free up technical mentors.  Even if they may not be able to Mentor at the Dojo themselves it’s a great way to spread the word. Are there people with the skills you need at their places of work?
 
 --- collapse ---
 
