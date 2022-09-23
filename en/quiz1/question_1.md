@@ -21,7 +21,7 @@ What do volunteer role descriptions usually include?
 
   --- feedback ---
   
-Jargon and technical terms can be off-puytting for volunteers. Use simple and clear language to make sure anyone can read it and understand the type of tasks they will be supporting with.
+Jargon and technical terms can be off-putting for volunteers. Use simple and clear language to make sure anyone can read it and understand the type of tasks they will be supporting with.
   --- /feedback ---
 
 - ( ) A contract of the job and its requirements, with a minimum time period commitment.
