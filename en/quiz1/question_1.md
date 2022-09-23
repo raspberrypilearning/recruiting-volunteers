@@ -37,7 +37,7 @@ Volunteer role descriptions should not read like a job description. You must be 
 Volunteer role descriptions should outline what a role involves. They ensure both the volunteer and others in the Dojo have a clear understanding of their role.
   --- /feedback ---
 
-- ( ) The benifits of volunteering and desirable skills for the role
+- ( ) Only the benefits of volunteering and desirable skills for the role
 
   --- feedback ---
 These can be added to a volunteer description once the more important role elements, such as the role title, aims and expectations of the role, an outline of tasks, the location and timing of the volunteer role are covered.
