@@ -27,11 +27,11 @@ Volunteers get to meet others passionate about giving young people in their loca
 - ( ) The opportunity to share your knowledge and experience
 
   --- feedback ---
-Volunteers get the chance to share their knowledge and experience to help young people develop skills for the future. This is very rewarding. Other benifits include making new friends.
+Volunteers get the chance to share their knowledge and experience to help young people develop skills for the future. This is very rewarding. Other benefits include making new friends.
 
 --- /feedback ---
 
-- (x) All of the benifits mentioned here and more!
+- (x) All of the benefits mentioned here and more!
 
   --- feedback ---
 There are lots of benefits to volunteering in a Dojo, including learning new skills, making new friends and the chance to share your knowledge and experience. These make it very rewarding, and it's also a lot of fun!
