@@ -45,7 +45,7 @@ title: Responding to Volunteer requests on the CoderDojo Platform, Zen
 
 <iframe width="600" height="337" src="https://www.youtube.com/embed/JVKgauEZluo" title="How to respond to volunteer requests on the CoderDojo platform" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-Once accepted, volunteers will show in your "Active Users" section and you will be able to email them and invite them to upcoming events through the platform.
+Once accepted, volunteers will show up in the "Active Users" section and you will be able to email them and invite them to upcoming events through the platform.
   
 --- /collapse ---
   
