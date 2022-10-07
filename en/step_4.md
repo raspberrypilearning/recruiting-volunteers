@@ -79,7 +79,7 @@ title: Talking to parents of attendees
 
 --- /collapse ---
 
-### Newspaper articles or radio interviews
+#### Newspaper articles or radio interviews
 
 Utilise your local paper or radio station by proposing to do an article or segment about CoderDojo and your local club. You can then include a call out for Mentors.
 
@@ -94,7 +94,9 @@ title: Presentations or visits to local companies
 
 --- /collapse ---
 
-### Current volunteers, sponsors or venue staff asked to recruit others
+#### Current volunteers, sponsors or venue staff asked to recruit others
+
+Ask others involved in or connected to the club to reach out to people they know who might be interested in volunteering with your Dojo.
 
 --- task ---
 
