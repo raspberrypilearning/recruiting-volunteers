@@ -2,7 +2,7 @@
 
 Explore our new [volunteer recruitment webpage](https://coderdojo.com/en/volunteerrecruitment) or try our [How to Mentor at a Dojo training](https://projects.raspberrypi.org/en/projects/dojo-mentoring/0).
 
-Make sure to click through to the final page of the training to recieve your certificate.
+Make sure to click through to the final page of the training to receive your certificate.
 
 --- print-only ---
 
