@@ -1,6 +1,6 @@
 ## What next?
 
-Explore our [How to Mentor at a Dojo training](https://projects.raspberrypi.org/en/projects/dojo-mentoring/0), or see our projects then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects).
+Explore our new [volunteer recruitment webpage](https://coderdojo.com/en/volunteerrecruitment) or try our [How to Mentor at a Dojo training](https://projects.raspberrypi.org/en/projects/dojo-mentoring/0).
 
 --- print-only ---
 
