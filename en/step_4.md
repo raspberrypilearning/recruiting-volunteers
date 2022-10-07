@@ -96,7 +96,7 @@ title: Presentations or visits to local companies
 
 #### Current volunteers, sponsors or venue staff asked to recruit others
 
-Ask others involved in or connected to the club to reach out to people they know who might be interested in volunteering with your Dojo.
+Others involved in or connected to the club could reach out to people they know who might be interested in volunteering.
 
 --- task ---
 
