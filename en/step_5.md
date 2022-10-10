@@ -3,17 +3,21 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
+How people respond will depend on the approach you have chosen to promote volunteer oppurtunities.
+  
 --- task ---
   
 **Think** about how you want those who are interested to contact you about the volunteer opportunity. 
 
 --- /task ---
  
-This will depend on the approach you have chosen.
-  
 You might ask those who see a poster, or see a newspaper advertisement to **email** the Dojo's email address if they are interested.
+  
 You could suggest those who see a social media post about it, to **comment** on the post or **directly message** you on that channel.
-If you are talking to someone you know, you might give them your mobile number to **call you back** once they have thought about it. If you are posting about volunteer opportunities online you might provide a link to an **online form** (eg. Google Form) for potential volunteers to fill out.
+  
+If you are talking to someone you know, you might give them your mobile number to **call you back** once they have thought about it. 
+  
+If you are posting about volunteer opportunities online you might provide a link to an **online form** (eg. Google Form) for potential volunteers to fill out.
   
 
 --- task ---
@@ -26,6 +30,25 @@ If you are talking to someone you know, you might give them your mobile number t
 <span style="color: #0faeb0">Choose a contact method that you **check and use regularly**, so it is easy for you to respond promptly to inquiries.
 </p>
   
+--- collapse ---
+
+---
+title: Responding to Volunteer requests on the CoderDojo Platform, Zen
+---
+
+1. Log in to your account on the [CoderDojo platform, Zen](https://coderdojo.com/)
+2. If you are a champion, select “My Dojos” from the drop down menu on the right
+3. Select the Dojo, and click on “Manage Users”
+4. Select the ‘user requests’ tab to see those who have requested to join your Dojo as volunteers
+5. Click to “accept” or “decline” the request
+
+
+<iframe width="600" height="337" src="https://www.youtube.com/embed/JVKgauEZluo" title="How to respond to volunteer requests on the CoderDojo platform" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+Once accepted, volunteers will show up in the "Active Users" section and you will be able to email them and invite them to upcoming events through the platform.
+  
+--- /collapse ---
+  
 Once your opportunity is shared, be ready to respond to any interest. When you receive responses:
   
 --- task ---
@@ -33,6 +56,7 @@ Once your opportunity is shared, be ready to respond to any interest. When you r
 **Respond quickly and politely** to ensure that the first impression of your Dojo is a positive one.
 
 --- /task ---
+  
   
 --- task ---
 
@@ -60,4 +84,3 @@ This feedback may help you to consider:
 + Flexibility, is there a way that you could accommodate specific needs?
 
 
---- save ---
