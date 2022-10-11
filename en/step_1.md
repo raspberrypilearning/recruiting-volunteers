@@ -25,6 +25,8 @@ The motivations of new volunteers may be similar or very different to your own.
 
 --- /task ---
 
+![Woman voluneer thinking](imgage/Girl_thinking.png)
+
 ## Reflect on your Dojo's volunteer needs
 
 Dojos usually have volunteers who have some experience working with young people, some who have coding experience, some who are interested in developing these skills, and others who want to help out the Dojo without working directly with young people.
