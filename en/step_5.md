@@ -19,6 +19,7 @@ If you are talking to someone you know, you might give them your mobile number t
   
 If you are posting about volunteer opportunities online you might provide a link to an **online form** (eg. Google Form) for potential volunteers to fill out.
   
+![Icons showsing different communications channels](images/Comm_channnels.png)
 
 --- task ---
   
