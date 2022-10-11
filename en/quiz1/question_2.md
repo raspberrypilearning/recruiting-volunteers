@@ -9,7 +9,7 @@ What are some of the benefits of volunteering with a Dojo?
 
 --- choices ---
 
-- ( ) Learn new skills such as communication, teamwork and group management
+- ( ) Learn new skills such as communication, teamwork, and group management
 
   --- feedback ---
 
@@ -34,7 +34,7 @@ Volunteers get the chance to share their knowledge and experience to help young 
 - (x) All of the benefits mentioned here and more!
 
   --- feedback ---
-There are lots of benefits to volunteering in a Dojo, including learning new skills, making new friends and the chance to share your knowledge and experience. These make it very rewarding, and it's also a lot of fun!
+There are lots of benefits to volunteering in a Dojo, including learning new skills, making new friends, and the chance to share your knowledge and experience. These make it very rewarding, and it's also a lot of fun!
 
   --- /feedback ---
 
