@@ -1,6 +1,6 @@
 ## What next?
 
-Explore our new [volunteer recruitment webpage](https://coderdojo.com/en/volunteerrecruitment) or try our [How to Mentor at a Dojo training](https://projects.raspberrypi.org/en/projects/dojo-mentoring/0).
+Explore our new [volunteer recruitment webpage](https://coderdojo.com/en/volunteerrecruitment) or try our [How to mentor at a Dojo](https://projects.raspberrypi.org/en/projects/dojo-mentoring/0) training.
 
 Make sure to click through to the final page of the training to receive your certificate.
 
