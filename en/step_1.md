@@ -25,7 +25,7 @@ The motivations of new volunteers may be similar or very different to your own.
 
 --- /task ---
 
-![Woman volunteer thinking](imgages/Girl_thinking.png)
+![Woman volunteer thinking](images/Girl_thinking.png)
 
 ## Reflect on your Dojo's volunteer needs
 
