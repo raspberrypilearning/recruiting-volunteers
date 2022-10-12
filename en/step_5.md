@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-How people respond will depend on the approach you have chosen to promote volunteer oppurtunities.
+How people respond will depend on the approach you have chosen to promote your volunteer opportunities.
   
 --- task ---
   
