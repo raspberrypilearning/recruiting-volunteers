@@ -29,15 +29,15 @@ The motivations of new volunteers may be similar or very different to your own.
 
 ## Reflect on your Dojo's volunteer needs
 
-Dojos usually have volunteers who have some experience working with young people, some who have coding experience, some who are interested in developing these skills, and others who want to help out the Dojo without working directly with young people.
+Dojos usually have some volunteers who have experience working with young people, some who have coding experience, some who are interested in developing these skills, and others who want to help out the Dojo without working directly with young people.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Dojos benefit from having volunteers with diverse backgrounds, skills, and experience.
+<span style="color: #0faeb0">Dojos benefit from having volunteers with diverse backgrounds, skills, and experiences.
 </p>
 
 Your Dojo might need volunteers to help with:
 + Setting up the space and computers
-+ Talking to young people to help them find solutions for themselves
++ Talking to young people to guide them to find solutions for themselves
 + Gathering suitable learning resources and projects
 + Organising snacks and refreshments for longer sessions
 + Fundraising or organising events
