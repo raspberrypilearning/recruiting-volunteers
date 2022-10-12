@@ -37,7 +37,7 @@ While it can be useful to have a larger audience to raise awareness of volunteer
 
 
   --- feedback ---
-It can be useful to learn a little about those who are applying to a volunteer oppotunity, such as their relevant skills, motivations, and background check clearance information. However, it is important not to collect data about people that is not relevant to the volunteer role. Asking too many questions can also make it more difficult for someone to respond to a volunteer opportunity.
+It can be useful to learn a little about those who are applying to a volunteer opportunity, such as their relevant skills, motivations, and background check clearance information. However, it is important not to collect data about people that is not relevant to the volunteer role. Asking too many questions can also make it more difficult for someone to respond to a volunteer opportunity.
 
   --- /feedback ---
 
