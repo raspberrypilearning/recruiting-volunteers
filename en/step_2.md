@@ -29,13 +29,13 @@ title: Dojo champion/co-champion
 **Aims and expectations:** Manages the overall running of the Dojo, including recruiting and onboarding volunteers, liaising with the venue, supporting and managing volunteers, communicating with parents.
   
 **Example tasks:**
-+ Manages the booking and communications with the venue
++ Manages the venue booking and communications with them
 + Coordinates Dojo volunteers, ensuring they are briefed for each session
 + Plans activities for sessions, with support from mentors
 + Manages the recruitment and onboarding process for new volunteers
 + Sets up the venue space and tidies equipment away at the end of the session
 
-**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Champions usually arrive 30 minutes before each session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 
@@ -57,7 +57,7 @@ title: Mentor (technical)
 + Help to set up technical equipment before sessions and tidy away equipment at the end of sessions
 
 
-**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Mentors usually arrive 10 minutes in advance of the session, and stay 10 minutes after the session ends. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Mentors usually arrive 10 minutes before each session, and stay 10 minutes after the session ends. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 
@@ -79,7 +79,7 @@ title: Mentor (guidance)
 + Encourage young people to participate in the session activities
 + Provide support to young people 
 
-**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Mentors usually arrive 10 minutes in advance of the session, and stay 10 minutes after the session ends. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Mentors usually arrive 10 minutes before each session, and stay 10 minutes after the session ends. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 --- /collapse ---
@@ -130,7 +130,7 @@ This is an unpaid volunteer role.
 
 --- /task ---
   
-Focus on speaking to people connected to the Dojo and those passionate about young people learning to create with technology first. If needed, you can then reach out to the wider community.
+Focus on speaking to people connected to the Dojo and those passionate about enabling young people to create with technology first. If needed, you can then reach out to the wider community.
 
 When writing the description, make sure it offers a good volunteering experience, so it is attractive to potential volunteers. Some things that can make the experience positive for volunteers are listed below.
 
