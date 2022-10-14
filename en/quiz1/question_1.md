@@ -1,8 +1,8 @@
 ## Reflection
 
-Well done, you have learned a lot! Now it's time to reflect - reflecting is an important part of learning because it helps make new connections in your brain.
+Well done, you have learnt a lot! Now it's time to reflect — reflecting is an important part of learning because it helps make new connections in your brain.
 
-Answer the three questions below to reflect on what you've learned.
+Answer the three questions below to reflect on what you've learnt.
 
 After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
 
@@ -24,10 +24,10 @@ What do volunteer role descriptions usually include?
 Jargon and technical terms can be off-putting for volunteers. Use simple and clear language to make sure anyone can read it and understand the type of tasks they will be supporting with.
   --- /feedback ---
 
-- ( ) A contract of the job and its requirements, with a minimum time period commitment.
+- ( ) A contract for the job and its requirements, with a minimum time period commitment.
 
   --- feedback ---
-Volunteer role descriptions should not read like a job description. You must be careful not to imply a volunteer is under contract to perform specific tasks. If it looks like you treat them as an employee, they may be eligible for full employment rights and you could be in breach of employment law. Be clear that it is an unpaid voluntary role, and volunteers can leave at any time. Don’t give volunteers an income, avoid asking for a minimum time period commitment and avoid using language used for employment. Words such as ‘contract’, ‘job’ and ‘requirements’ are inappropriate for volunteers, instead the language should be ‘agreement’, ‘role’ and ‘hopes’ or ‘expectations’.
+Volunteer role descriptions should not read like a job description. You must be careful not to imply a volunteer is under contract to perform specific tasks. If it looks like you treat them as an employee, they may be eligible for full employment rights and you could be in breach of employment law. Be clear that it is an unpaid voluntary role, and volunteers can leave at any time. Don’t give volunteers an income, avoid asking for a minimum time period commitment, and avoid using language used for employment. Words such as ‘contract’, ‘job’, and ‘requirements’ are inappropriate for volunteers, instead the language should be ‘agreement’, ‘role’, and ‘hopes’ or ‘expectations’.
 
   --- /feedback ---
 

@@ -6,37 +6,36 @@
 People are much more likely to respond positively to a request to do specific tasks rather than fill a role where they are unsure of what is required of them. Volunteer role descriptions outline what a role involves. They ensure both the volunteer and others in the Dojo have a clear understanding of the tasks they will be expected to do.
 
 **Role descriptions usually include:**
-+ role title 
-+ aims and expectations of role
-+ an outline of the role's tasks
-+ location, timing and regularity of sessions ie. how long and where you need volunteers to be present
++ Role title 
++ Aims and expectations of the role
++ An outline of the role's tasks
++ Location, timing, and regularity of sessions (i.e. how long and where you need the volunteers to be present)
 
-Descriptions can also include why a new volunteer might like to take up the opportunity, how the role fits within the Dojo, expectations of behaviour
-as well as desirable skills and qualifications.
+Descriptions can also include why a new volunteer might like to take up the opportunity, how the role fits within the Dojo, expectations of behaviour, as well as desirable skills and qualifications.
 
 ## Example role descriptions
 Below are six different example volunteer role descriptions that you can adapt to suit the needs of your Dojo.
   
 The role descriptions are not exclusive or exhaustive. Many volunteers will have a primary role, but will help out in other areas of the club and with other tasks as required.
   
-![A Venn diagram of volunteer roles in a Dojo](images/Venn_Diagram.png)
+![A Venn diagram of volunteer roles in a Dojo.](images/Venn_Diagram.png)
 
 --- collapse ---
 
 ---
-title: Dojo Champion/Co-champion
+title: Dojo champion/co-champion
 ---
 
 **Aims and expectations:** Manages the overall running of the Dojo, including recruiting and onboarding volunteers, liaising with the venue, supporting and managing volunteers, communicating with parents.
   
 **Example tasks:**
-+ Manages the booking and communications with the venue
++ Manages the venue booking and communications with them
 + Coordinates Dojo volunteers, ensuring they are briefed for each session
 + Plans activities for sessions, with support from mentors
-+ Manages the recruitment and onboarding process of new volunteers
-+ Sets up the venue space and tidies equipment away at the end of session
++ Manages the recruitment and onboarding process for new volunteers
++ Sets up the venue space and tidies equipment away at the end of the session
 
-**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Champions usually arrive 30 minutes in advance of the session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Champions usually arrive 30 minutes before each session, and stay 30 minutes after the session ends to make sure volunteers are debriefed and the venue is tidied. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 
@@ -58,7 +57,7 @@ title: Mentor (technical)
 + Help to set up technical equipment before sessions and tidy away equipment at the end of sessions
 
 
-**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Mentors usually arrive 10 minutes in advance of the session, and stay 10 minutes after the session ends. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Mentors usually arrive 10 minutes before each session, and stay 10 minutes after the session ends. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 
@@ -80,7 +79,7 @@ title: Mentor (guidance)
 + Encourage young people to participate in the session activities
 + Provide support to young people 
 
-The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Mentors usually arrive 10 minutes in advance of the session, and stay 10 minutes after the session ends. Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
+**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. Mentors usually arrive 10 minutes before each session, and stay 10 minutes after the session ends. This Dojo usually runs during regular school term time, taking a break for holidays and midterm. 
 This is an unpaid volunteer role.
 
 --- /collapse ---
@@ -99,7 +98,7 @@ title: Support volunteer
 + Help to organise the session space and equipment
 
 
-The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. This Dojo usually runs <mark>during regular school term time, taking a break for holidays and midterm</mark>. 
+**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. This Dojo usually runs <mark>during regular school term time, taking a break for holidays and midterm</mark>. 
 This is an unpaid volunteer role.
 
 --- /collapse ---
@@ -118,7 +117,7 @@ Example tasks:
 + Ensure that all volunteers have the [appropriate background checks](https://help.coderdojo.com/cdkb/s/article/Background-Checking-Volunteers){:target="_blank"}.
 
 
-The Dojo hosts sessions <mark>every week/fortnight/month</mark>  on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. This Dojo usually runs <mark>during regular school term time, taking a break for holidays and midterm</mark>. 
+**Location and times:** The Dojo hosts sessions <mark>every week/fortnight/month</mark> on <mark>day/dates</mark> from <mark>start time</mark> to <mark>end time</mark>. This Dojo usually runs <mark>during regular school term time, taking a break for holidays and midterm</mark>. 
 This is an unpaid volunteer role.
 
 --- /collapse ---
@@ -131,7 +130,7 @@ This is an unpaid volunteer role.
 
 --- /task ---
   
-Focus on speaking to people connected to the Dojo, and passionate about young people learning to create with technology first. If needed you can then reach out to the wider community.
+Focus on speaking to people connected to the Dojo and those passionate about enabling young people to create with technology first. If needed, you can then reach out to the wider community.
 
 When writing the description, make sure it offers a good volunteering experience, so it is attractive to potential volunteers. Some things that can make the experience positive for volunteers are listed below.
 
@@ -142,21 +141,21 @@ When writing the description, make sure it offers a good volunteering experience
 + Makes a difference and impactful
 + Doesn't overburden the volunteer
 + Opportunity to connect with others, and the cause
-+ Meaningful to volunteers' lives, interests and priorities
++ Meaningful to volunteers' lives, interests, and priorities
 
 </div>
 </div>
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">The **benefits of volunteering** include learning new skills (communication, teamwork, group management), the opportunity to share your knowledge and experience, making new friends and feeling empowered by helping young people develop skills for the future.
+<span style="color: #0faeb0">The **benefits of volunteering** include learning new skills (communication, teamwork, group management), the opportunity to share your knowledge and experience, making new friends, and feeling empowered by helping young people develop skills for the future.
 </p>
   
 Are there other benefits you and others in your Dojo have gained through the experience of volunteering? 
   
 --- task ---
   
-**Write** down three benefits of volunteering with your Dojo, so you have them to mind when talking to potential volunteers.
+**Write down** three benefits of volunteering with your Dojo, so you have them to mind when talking to potential volunteers.
 
 
 --- /task ---

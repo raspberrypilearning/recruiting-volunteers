@@ -2,15 +2,15 @@
 title: How to recruit volunteers
 hero_image: images/Volunteers_celebrating.png
 description: This course will focus on supporting those involved in managing and running a Dojo to recruit volunteers.
-version: 4
+version: 2
 listed: false
-copyedit: false
+copyedit: true
 last_tested: '2021-03-26'
 steps:
 - title: Reflect
 - title: Role descriptions
 - title: Promote
-- title: Resources to promote
+- title: Resources to help you promote
 - title: Respond
 - title: Reflection
   knowledge_quiz:

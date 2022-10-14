@@ -1,5 +1,5 @@
 ## Promote
-There are three key elements to consider when promoting volunteer opportunities; who, where and how.
+There are three key elements to consider when promoting volunteer opportunities: who, where, and how.
 
 
 ## Who to recruit
@@ -9,11 +9,11 @@ There are three key elements to consider when promoting volunteer opportunities;
 
 Dojos told us that they recruit:
 + Parents of young people who participate in the Dojo
-+ Venue staff (eg. librarians, office staff, youth workers)
++ Venue staff (e.g. librarians, office staff, youth workers)
 + Software developers working in the area
 + Local developer community and social group members
 + Students (secondary or further education)
-+ Local educators (primary, secondary or further education)
++ Local educators (primary, secondary, or further education)
 + Teenagers who participated in the Dojo and evolved to mentors
   
 --- task ---
@@ -30,11 +30,11 @@ Dojos told us that they recruit:
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"> Focus on speaking to people connected to and passionate about the Dojo first. If needed you can then reach out to the wider community. </p>
+<span style="color: #0faeb0">Focus on speaking to people connected to and passionate about the Dojo first. If needed, you can then reach out to the wider community. </p>
   
 ## Where to promote
 
-To reach potential volunteers, where will you need to advertise your opportunity? 
+Where will you need to advertise your opportunity to reach potential volunteers? 
 
 --- collapse ---
 
@@ -65,7 +65,7 @@ title: Examples of where to promote
 + Radio interviews
 + Presentations or visits to local companies
 + Host an information session for prospective volunteers
-+ Current volunteers, parents, sponsors or venue staff asked to recruit others
++ Current volunteers, parents, sponsors, or venue staff asked to recruit others
 
 --- task ---
 
@@ -83,5 +83,5 @@ title: Examples of where to promote
 <span style="color: #0faeb0">**A direct and personal invitation is often more successful.** Reach out to those you know, or have a colleague or friend introduce you to someone they think would be interested in the opportunity. Personalise emails where possible.
 </p>
 
-Tip: Highlight training, support and resources available when talking to prospective volunteers. These include our [“How to mentor” online training module](https://projects.raspberrypi.org/en/projects/dojo-mentoring/0){:target="_blank"}, and our [step-by-step projects](https://projects.raspberrypi.org/en/coderdojo){:target="_blank"} young people follow.
+Tip: Highlight training, support, and resources available when talking to prospective volunteers. These include our [“How to mentor” online training module](https://projects.raspberrypi.org/en/projects/dojo-mentoring/0){:target="_blank"}, and our [step-by-step projects](https://projects.raspberrypi.org/en/coderdojo){:target="_blank"} for young people to follow.
 </div>
