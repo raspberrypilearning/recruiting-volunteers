@@ -81,15 +81,13 @@ Resources to help you approach parents:
 
 --- /collapse ---
 
----
-title: Newspaper articles or radio interviews
----
+### Newspaper articles or radio interviews
 
 Utilise your local paper or radio station by proposing to do an article or segment about CoderDojo and your local club. You can then include a call for mentors.
 
 
---- collapse ---
 
+--- collapse ---
 ---
 title: Presentations or visits to local companies
 ---
@@ -98,9 +96,8 @@ title: Presentations or visits to local companies
 
 --- /collapse ---
 
----
-title: Current volunteers, sponsors, or venue staff asked to recruit others
----
+### Current volunteers, sponsors, or venue staff asked to recruit others
+
 
 Others involved in or connected to the club could reach out to people they know who might be interested in volunteering.
 
